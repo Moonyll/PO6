@@ -1,0 +1,32 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace correction_poo6
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+        }
+    }
+    //Déclaration de la classe 'bankAccount'.
+    public class BankAccount
+    {
+        //Déclaration des attributs.
+        public string holder; 
+        public double balance;
+        public string currency;
+        //Déclaration des méthodes.
+        public void Credit(double amount)
+        {
+
+        }
+        public void Debit(double amount)
+        {
+
+        }
+    }
+}
